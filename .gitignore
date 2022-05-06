@@ -3,3 +3,6 @@
 
 # Unit test / coverage reports
 .pytest_cache
+
+# Pyre type checker
+.idea
